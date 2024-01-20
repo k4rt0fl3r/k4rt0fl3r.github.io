@@ -3,4 +3,5 @@ entries:
     url: whoami
   
   - title: posts
-    post_list: true
+    post_list:
+      limit: 5

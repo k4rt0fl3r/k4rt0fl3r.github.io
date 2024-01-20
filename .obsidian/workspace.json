@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "whoami.md",
-                "mode": "source",
-                "source": false
+                "file": "_posts/2024-01-20 Test.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whoami.md",
+                "file": "_posts/2024-01-20 Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whoami.md",
+                "file": "_posts/2024-01-20 Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whoami.md"
+                "file": "_posts/2024-01-20 Test.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2f56e2fdfd27af03",
   "lastOpenFiles": [
-    "index.md",
     "whoami.md",
+    "index.md",
     "archive.md",
     "example2-archive.md",
     "_posts/2024-01-20 Test.md",

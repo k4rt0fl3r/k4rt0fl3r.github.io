@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           }
@@ -147,5 +147,33 @@
     }
   },
   "active": "2f56e2fdfd27af03",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "about.md",
+    "archive.md",
+    "example2-archive.md",
+    "_posts/2024-01-20 Test.md",
+    "templates/PostTemplate.md",
+    "_posts/2020-07-07-overview-post.md",
+    "_posts/2020-07-06-strange-post.md",
+    "_posts/2020-07-09-post-example-with-hr.md",
+    "_posts/2020-07-09-post-example-with-headings-and-toc.md",
+    "_posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
+    "_posts/2020-07-08-language-tests.md",
+    "templates",
+    "_screenshots/page-speed-insights-report.png",
+    "_screenshots/lighthouse-report.png",
+    "_screenshots/featured-image.png",
+    "index.md",
+    "logo.png",
+    "README.md",
+    "_screenshots",
+    "_sass/no-style-please.scss",
+    "_sass",
+    "_posts",
+    "no-style-please.gemspec",
+    "LICENSE.txt",
+    "_layouts/post.html",
+    "_layouts/page.html",
+    "_layouts/home.html"
+  ]
 }
